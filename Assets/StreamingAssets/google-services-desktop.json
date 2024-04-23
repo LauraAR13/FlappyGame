@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "798627697771",
+    "firebase_url": "https://fir-game-5c4ff-default-rtdb.firebaseio.com",
+    "project_id": "fir-game-5c4ff",
+    "storage_bucket": "fir-game-5c4ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798627697771:android:1a1019c2a4daa70441cd2e",
+        "android_client_info": {
+          "package_name": "com.upb.firebasegame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCspNMVEqQNta_dDW1oqjgBNIcjKMXWYTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
